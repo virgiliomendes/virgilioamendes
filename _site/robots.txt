@@ -1,1 +1,1 @@
-Sitemap: https://virgiliomendes.quarto.pub/blog/sitemap.xml
+Sitemap: https://9b648dd9-89c6-4bb2-b544-41a163814c64.netlify.app/sitemap.xml
