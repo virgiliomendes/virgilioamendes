@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+---
+
+
+[**Class Repository**](https://github.com/virgiliomendes/Intro-R-Equalitas-2022): Equalitas 2022 at Federal University of Minas Gerais (UFMG) sept/2022 Introduction to R (15h). An introductory R course promoted by EQUALITAS JR. that works the skills: (a) data treatment, manipulation and analysis; (b) data visualization; (c) development of a project.
+
+[**Class Repository**](https://www.cursosead.ipespe.org.br/programa%C3%A7%C3%A3o): New Waves of Political Communication 2021 at Public Opinion Group (UFMG) and IPESPE aug/2021 Course: Social Media: analysis methods: Course unit focused on using social media data for political campaigns. Addressing issues such as big data and data availability; data scraping techniques and data mining on social networks; and analysis methods and metrics.
+
+[**Class Repository**](https://github.com/Ttytamaki/Intro_R_2021/tree/main/Aulas): Curso de Introdução ao R Equalitas 2021.
+
+[**Class Repository**](https://github.com/Ttytamaki/Intro_R_2021/tree/main/Aulas): Summer School of Methods at Federal University of Pará (UFPA) feb/2021.Two introductory R courses promoted by EQUALITAS JR. that works the skills: (a) data treatment, manipulation and analysis; (b) data visualization; (c) development of a project.
+
+[**Class Repository**](https://github.com/virgiliomendes/Mquinho_2020_Introd_R): MQuinho 2020 at Federal University of Minas Gerais (UFMG) 2020, oct/Introduction to R (15h).
+
+[**Class Repository**](https://github.com/virgiliomendes/Introducao_ao_R_MEIOS): Internal Training of MEIOS JR. at Federal University of Minas Gerais (UFMG) aug/2020 Introduction to R (10h): Course promoted by MEIOS JR. in order to present the R language and its main functionalities: manipulation and treatment of databases, production of analysis and data visualization

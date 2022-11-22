@@ -1,0 +1,24 @@
+---
+title: "Projects"
+---
+
+
+### **Monografia**
+
+Clique [aqui](https://github.com/virgiliomendes/virgiliomendes/blob/master/2019%20-%20Mendes%20Virgilio.%20Monografia%20-%20OS%20CANDIDATOS%20POSSUEM%20O%20MESMO%20ESPA%C3%87O%20NA%20M%C3%8DDIA.pdf) para acessar a Monografia do Curso de Bacharel em Ciências Sociais da UFMG.
+
+### **Automated Classification Parties**
+
+[**Repository**](https://github.com/virgiliomendes/automated-classification-parties): Using the datasets published on [TSE](https://www.tse.jus.br/) and the R package [ElectionBr](https://electionsbr.com/), this project aims to produce an automated classification for the political parties and coalitions.
+
+### **Webscrapping ALMG**
+
+[**Repository**](https://github.com/virgiliomendes/raspagem_ALMG): This repository proposes to systematize a scraping of data from the Propositions, as well as the status of the processing of projects in the Minas Gerais Assembly (ALMG) and especially regarding the Votes of State Deputies bearing in mind the votes of the 1st and 2nd round of the propositions.
+
+### **Technical Report**
+
+[**Repository**](https://github.com/virgiliomendes/FGV_Fiocruz_5aRodada): Repositório para os dados do relatório sobre Impactos do COVID-19 e Profissionais de Saúde, 5a Rodada do Survey da FGV (Fundação Getúlio Vargas) em parceria com Fundação Oswaldo Cruz (Fiocruz).
+
+### **Social Network Analysis in 2018 Elections**
+
+[**Repository**](https://github.com/virgiliomendes/ARS_Elections_2018): Social Network Analysis for Brazilian Presidential Elections (2018).

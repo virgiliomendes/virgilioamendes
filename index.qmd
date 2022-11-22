@@ -1,0 +1,28 @@
+---
+title: "Virgílio Mendes"
+image: img/perfil.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/virgiliomendes/
+    - text: Twitter
+      href: https://twitter.com/Mendes_txt
+    - text: GitHub
+      href: https://github.com/virgiliomendes
+    - text: Email
+      href: mailto:virgilioebm@gmail.com
+    - text: Lattes
+      href: http://lattes.cnpq.br/3781647781988333
+    - text: CV
+      href: https://github.com/virgiliomendes/virgiliomendes/blob/master/CV_Virgilio_mercado.pdf
+---
+
+# **Apresentação**
+
+Mestre em Ciência Política na UFMG e Bacharel em Ciências Sociais pela Universidade Federal de Minas Gerais (UFMG). Ex-diretor da Coordenadoria de Projetos da MEIOS - Empresa Júnior de Ciências Sociais da UFMG e Cientista de Dados conjugando o âmbito político com os dados. Tem interesse profissional e acadêmico nas áreas de Ciência de Dados, Ciência Política, Estatística e interesse nas áreas de metodologia quantitativa e qualitativa. Atualmente Cursando Especialização em Ciência de Dados e Big Data na PUC/MG.
+
+
+<!-- quarto publish quarto-pub -->

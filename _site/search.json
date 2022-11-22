@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Virgílio Mendes",
+    "section": "",
+    "text": "Apresentação\nMestre em Ciência Política na UFMG e Bacharel em Ciências Sociais pela Universidade Federal de Minas Gerais (UFMG). Ex-diretor da Coordenadoria de Projetos da MEIOS - Empresa Júnior de Ciências Sociais da UFMG e Cientista de Dados conjugando o âmbito político com os dados. Tem interesse profissional e acadêmico nas áreas de Ciência de Dados, Ciência Política, Estatística e interesse nas áreas de metodologia quantitativa e qualitativa. Atualmente Cursando Especialização em Ciência de Dados e Big Data na PUC/MG."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Monografia\nClique aqui para acessar a Monografia do Curso de Bacharel em Ciências Sociais da UFMG.\n\n\nAutomated Classification Parties\nRepository: Using the datasets published on TSE and the R package ElectionBr, this project aims to produce an automated classification for the political parties and coalitions.\n\n\nWebscrapping ALMG\nRepository: This repository proposes to systematize a scraping of data from the Propositions, as well as the status of the processing of projects in the Minas Gerais Assembly (ALMG) and especially regarding the Votes of State Deputies bearing in mind the votes of the 1st and 2nd round of the propositions.\n\n\nTechnical Report\nRepository: Repositório para os dados do relatório sobre Impactos do COVID-19 e Profissionais de Saúde, 5a Rodada do Survey da FGV (Fundação Getúlio Vargas) em parceria com Fundação Oswaldo Cruz (Fiocruz).\n\n\nSocial Network Analysis in 2018 Elections\nRepository: Social Network Analysis for Brazilian Presidential Elections (2018)."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "PublicadosConference PapersSubmetidos\n\n\nUma análise de rede das mídias tradicionais e a cobertura das eleições de 2018 [Resumo]: O presente artigo visa discutir como alguns veículos de mídia impressa realizaram a cobertura das eleições de 2018. Os meios de comunicação, em especial as mídias jornalísticas, constituem um aspecto marcante para a delineação da opinião pública em uma democracia e, também, cumprem papel de agentes de distribuição do fluxo informacional. Assim, este trabalho traz estatísticas descritivas sobre a proporção da presença de cada candidato nas capas de mídia impressa, a fim de contribuir para a literatura dedicada ao estudo da cobertura midiática em períodos eleitorais e tentar responder à pergunta se houve ou não viés na cobertura eleitoral de 2018. Para além disso, utilizamos também o método de Análise de Redes Sociais (ARS) como ferramenta analítica no intuito de identificar as redes de relacionamento dos atores políticos presentes na cobertura destes veículos. Nossos resultados apontam para dois momentos diferentes das eleições, ambos com cobertura desigual dos candidatos. Um antes da facada sofrida por Bolsonaro, quando Lula era o personagem mais citado, e outro posterior à facada, quando Bolsonaro teve presença majoritária nas mídias estudadas.\nCONSTITUIÇÃO DO SELF NAS REDES SOCIAIS: considerações a partir de uma antropologia da cibercultura [Resumo]: O trabalho tem como objetivo analisar a construção do self nas redes sociais e distinguir em que medida as relações entre atores virtuais alteram a construção do self e de que maneira está associada ao anonimato que aparece como uma “ferramenta” de proteção da intimidade. Serão expostos e analisados os estudos desenvolvidos por Sherry Turkle e Paula Sibilia sobre as redes sociais e a subjetividade contemporânea, especialmente nos livros Alone together (2011) e O show do eu (2008). Ponto importante a se pensar é a ideia de exteriorização do self introduzida por Sibilia e a comunicação e reconstrução das identidades nas relações estabelecidas com os dispositivos informacionais, segundo a análise realizada por Turkle. O trabalho também tem por objetivo promover uma discussão acerca de como as relações virtuais possuem um papel constitutivo na formação do self, partindo da concepção interacionista de Goffman (2002). Objetiva-se, por fim, explanar o que resultou do sistema de relações que constitui as redes sociais.\n\n\nThe Myth Behind the Stabbing: Engagement of Bolsonaro’s posts on Facebook during the 2018 election. [Resumo]: Paper apresentado no IPSA - Lisboa, Portugal em jun/2021.\n\n\n[Forthcoming] E. Tamaki, V. A. Mendes. “QCA for Dummies: Basics of the Qualitative Comparative Analysis”, Revista Conexão Política, ISSN 2317-3254, 2022."
+  },
+  {
+    "objectID": "research.html#dissertação-e-monografia",
+    "href": "research.html#dissertação-e-monografia",
+    "title": "Research",
+    "section": "Dissertação e Monografia",
+    "text": "Dissertação e Monografia\n\nPublicados\n\n\nPolêmicas como fator de engajamento: como os políticos no Facebook mobilizaram os usuários em 2018. [Resumo]: Dissertação defendida dia 19 de agosto de 2022, para o curso de Mestrado em Ciência Política pela UFMG.\nOS CANDIDATOS POSSUEM O MESMO ESPAÇO NA MÍDIA? UMA ANÁLISE DO VIÉS DA COBERTURA JORNALÍSTICA IMPRESSA DOS CANDIDATOS À PRESIDÊNCIA EM 2018 A PARTIR DA ANÁLISE DE REDES [Resumo]: Monografia do Curso ABI de Ciências Sociais da UFMG defendida em 29 de novembro de 2019."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Class Repository: Equalitas 2022 at Federal University of Minas Gerais (UFMG) sept/2022 Introduction to R (15h). An introductory R course promoted by EQUALITAS JR. that works the skills: (a) data treatment, manipulation and analysis; (b) data visualization; (c) development of a project.\nClass Repository: New Waves of Political Communication 2021 at Public Opinion Group (UFMG) and IPESPE aug/2021 Course: Social Media: analysis methods: Course unit focused on using social media data for political campaigns. Addressing issues such as big data and data availability; data scraping techniques and data mining on social networks; and analysis methods and metrics.\nClass Repository: Curso de Introdução ao R Equalitas 2021.\nClass Repository: Summer School of Methods at Federal University of Pará (UFPA) feb/2021.Two introductory R courses promoted by EQUALITAS JR. that works the skills: (a) data treatment, manipulation and analysis; (b) data visualization; (c) development of a project.\nClass Repository: MQuinho 2020 at Federal University of Minas Gerais (UFMG) 2020, oct/Introduction to R (15h).\nClass Repository: Internal Training of MEIOS JR. at Federal University of Minas Gerais (UFMG) aug/2020 Introduction to R (10h): Course promoted by MEIOS JR. in order to present the R language and its main functionalities: manipulation and treatment of databases, production of analysis and data visualization"
+  }
+]
